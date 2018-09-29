@@ -1,12 +1,14 @@
 {
     "name": "legion112/brackets",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Max",
             "email": "ageev.maks2014@gmail.com"
         }
     ],
+
     "require": {},
     "autoload": {
         "psr-4": {
