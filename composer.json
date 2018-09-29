@@ -7,5 +7,10 @@
             "email": "ageev.maks2014@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "legion112\\brackets": "src/"
+        }
+    }
 }
