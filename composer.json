@@ -11,8 +11,8 @@
 
     "require": {},
     "autoload": {
+		"classmap": ["src"],
         "psr-4": {
-		    "classmap": ["src"],
             "legion112\\brackets\\": "src/"
         }
     }
