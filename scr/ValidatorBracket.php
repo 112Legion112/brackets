@@ -1,13 +1,5 @@
 <?php
 
-declare(strict_types=1);
-
-/**
- * Class BracketParser
- *
- * The BracketParser is default implementation of BracketParserInterface
- */
-
 namespace legion112\brackets;
 
 class ValidatorBracket implements ValidatorBracketInterface

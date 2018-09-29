@@ -1,14 +1,13 @@
 <?php
 
-declare(strict_types=1);
+namespace legion112\brackets;
+
 
 /**
  * Interface BracketParserInterface
  *
  * The BracketParserInterface interface provides the API for checking brackets
  */
-
-namespace legion112\brackets;
 
 interface ValidatorBracketInterface
 {
