@@ -10,7 +10,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "legion112\\brackets": "src/"
+            "legion112\\brackets\\": "src/"
         }
     }
 }
